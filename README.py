@@ -3,7 +3,7 @@ a=int(input("enter first number:"))
 b=int(input("enter second number:"))
 print("only type number of the operation")
 print('''select operation for calculation-
-1.additon 2.division 3.subtraction 4.multiplication 
+1.additon 2.division 3.subtraction 4.multiplication 5.square of first number.
 c=input()
 if c == "1":
   print("bro its:",a+b)
